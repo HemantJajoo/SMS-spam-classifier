@@ -1,5 +1,7 @@
 # SMS-Spam-Classifier
 
+Classifying SMS messages using the Naive Bayes Machine Learning model, understand why Naive Bayes works well for this use case and also dive a little into wordclouds to visualize this dataset.
+
 **Data Set Information:**
 
 This corpus has been collected from free or free for research sources at the Internet: 
